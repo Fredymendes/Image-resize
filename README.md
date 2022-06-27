@@ -5,4 +5,4 @@ Learn from @thecodeholic
 Projet -------------------
 --------------------------
 
-Projet permettant le redimensionement de plusieurs image.
+Projet permettant le redimensionement de plusieurs images.
