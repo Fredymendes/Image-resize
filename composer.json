@@ -1,0 +1,17 @@
+{
+    "name": "fredy/image-resize",
+    "autoload": {
+        "psr-4": {
+            "Fredy\\ImageResize\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fredy Mendes",
+            "email": "45205866+Fredymendes@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "imagine/imagine": "^1.3"
+    }
+}
